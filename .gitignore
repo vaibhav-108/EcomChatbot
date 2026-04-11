@@ -66,4 +66,4 @@ Frontend/node_modules/
 Frontend/dist/
 Frontend/.env
 
-shopenv/
+shopenv/.env
