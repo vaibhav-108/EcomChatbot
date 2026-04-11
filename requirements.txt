@@ -8,6 +8,7 @@ pydantic-ai
 langchain-openai
 pydantic-ai-slim[tavily]
 nest-asyncio
+groq
 
 #backend
 fastapi
